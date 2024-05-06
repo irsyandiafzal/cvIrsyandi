@@ -1,0 +1,420 @@
+[
+    {
+      "id": 292,
+      "question": "Apa pengguna dengan hak istimewa tertinggi di Wordpress?",
+      "description": null,
+      "answers": {
+        "answer_a": "Kontributor",
+        "answer_b": "Penulis",
+        "answer_c": "Editor",
+        "answer_d": "Administrator",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "false",
+        "answer_b_correct": "false",
+        "answer_c_correct": "false",
+        "answer_d_correct": "true",
+        "answer_e_correct": "false",
+        "answer_f_correct": "false"
+      },
+      "correct_answer": "answer_a",
+      "explanation": null,
+      "tip": null,
+      "tags": [
+        {
+          "name": "WordPress"
+        }
+      ],
+      "category": "CMS",
+      "difficulty": "Mudah"
+    },
+    {
+      "id": 964,
+      "question": "Untuk apa kube-proxy digunakan?",
+      "description": null,
+      "answers": {
+        "answer_a": "Untuk menggantikan halaman web autentik dalam indeks mesin pencari dan hasil pencarian",
+        "answer_b": "Untuk memuat seimbang lalu lintas yang ditujukan untuk layanan ke backend pods yang benar",
+        "answer_c": null,
+        "answer_d": null,
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "false",
+        "answer_b_correct": "true",
+        "answer_c_correct": "false",
+        "answer_d_correct": "false",
+        "answer_e_correct": "false",
+        "answer_f_correct": "false"
+      },
+      "correct_answer": null,
+      "explanation": null,
+      "tip": null,
+      "tags": [
+        {
+          "name": "Kubernetes"
+        }
+      ],
+      "category": "DevOps",
+      "difficulty": "Mudah"
+    },
+    {
+      "id": 782,
+      "question": "Apa yang dilakukan oleh fungsi include()?",
+      "description": null,
+      "answers": {
+        "answer_a": "Fungsi include() mengambil semua teks dalam file yang ditentukan dan menyalinnya ke dalam file yang menggunakan fungsi include",
+        "answer_b": "Fungsi include() mengambil file yang diikutsertakan dan memastikan bahwa itu dieksekusi sebelum file yang fungsi itu digunakan",
+        "answer_c": "Fungsi include() mengambil string yang ditentukan dan menyertakan mereka ke dalam string lain. Ini digunakan ketika kita ingin menggabungkan string yang berbeda.",
+        "answer_d": null,
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "true",
+        "answer_b_correct": "false",
+        "answer_c_correct": "false",
+        "answer_d_correct": "false",
+        "answer_e_correct": "false",
+        "answer_f_correct": "false"
+      },
+      "correct_answer": null,
+      "explanation": null,
+      "tip": null,
+      "tags": [
+        {
+          "name": "PHP"
+        }
+      ],
+      "category": "Kode",
+      "difficulty": "Menengah"
+    },
+    {
+      "id": 494,
+      "question": "Yang berikut ini benar tentang Cookies?",
+      "description": null,
+      "answers": {
+        "answer_a": "Cookies terbatas pada sekitar 4 KB data. Tidak cukup untuk menyimpan data yang dibutuhkan.",
+        "answer_b": "Cookies disertakan dengan setiap permintaan HTTP, sehingga memperlambat aplikasi web Anda dengan mentransmisikan data yang sama.",
+        "answer_c": "Cookies disertakan dengan setiap permintaan HTTP, sehingga mengirimkan data tanpa enkripsi melalui internet.",
+        "answer_d": "Semuanya benar.",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "false",
+        "answer_b_correct": "false",
+        "answer_c_correct": "false",
+        "answer_d_correct": "true",
+        "answer_e_correct": "false",
+        "answer_f_correct": "false"
+      },
+      "correct_answer": "answer_a",
+      "explanation": null,
+      "tip": null,
+      "tags": [
+        {
+          "name": "HTML"
+        }
+      ],
+      "category": "Kode",
+      "difficulty": "Sulit"
+    },
+    {
+      "id": 156,
+      "question": "Elemen HTML <canvas> digunakan untuk:",
+      "description": null,
+      "answers": {
+        "answer_a": "menggambar grafik",
+        "answer_b": "menampilkan catatan database",
+        "answer_c": "membuat elemen yang dapat ditarik",
+        "answer_d": "memanipulasi data di MySQL",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "true",
+        "answer_b_correct": "false",
+        "answer_c_correct": "false",
+        "answer_d_correct": "false",
+        "answer_e_correct": "false",
+        "answer_f_correct": "false"
+      },
+      "correct_answer": "answer_a",
+      "explanation": null,
+      "tip": null,
+      "tags": [
+        {
+          "name": "HTML"
+        }
+      ],
+      "category": "",
+      "difficulty": "Menengah"
+    },
+    {
+      "id": 845,
+      "question": "Bagaimana cara menampilkan semua gambar docker yang diambil pada sistem dengan detail gambar seperti TAG/ID GAMBAR/UKURAN, dll.",
+      "description": null,
+      "answers": {
+        "answer_a": "$ docker img",
+        "answer_b": "$ docker --images",
+        "answer_c": "$ docker images",
+        "answer_d": null,
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "false",
+        "answer_b_correct": "false",
+        "answer_c_correct": "true",
+        "answer_d_correct": "false",
+        "answer_e_correct": "false",
+        "answer_f_correct": "false"
+      },
+      "correct_answer": "answer_a",
+      "explanation": null,
+      "tip": null,
+      "tags": [
+        {
+         
+            "name": "Docker"
+        }
+      ],
+      "category": "Docker",
+      "difficulty": "Mudah"
+    },
+    {
+      "id": 280,
+      "question": "Aksi dan filter hooks mana yang bukan merupakan fungsi dalam WordPress?",
+      "description": null,
+      "answers": {
+        "answer_a": "has_filter() dan has_action()",
+        "answer_b": "apply_filters_ref_array() dan do_action_ref_array()",
+        "answer_c": "doing_filter() dan doing_action()",
+        "answer_d": "open_filter() dan close_action()",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "true",
+      "correct_answers": {
+        "answer_a_correct": "true",
+        "answer_b_correct": "true",
+        "answer_c_correct": "true",
+        "answer_d_correct": "false",
+        "answer_e_correct": "false",
+        "answer_f_correct": "false"
+      },
+      "correct_answer": "answer_a",
+      "explanation": null,
+      "tip": null,
+      "tags": [
+        {
+          "name": "WordPress"
+        }
+      ],
+      "category": "CMS",
+      "difficulty": "Sulit"
+    },
+    {
+      "id": 733,
+      "question": "Bagaimana cara melihat status pembaruan bergulir dari deployment \"frontend\" hingga selesai di Kubernetes?",
+      "description": null,
+      "answers": {
+        "answer_a": "kubectl rollout status --live deployment/frontend",
+        "answer_b": "kubectl rollout status -w deployment/frontend",
+        "answer_c": "kubectl rollout status -l deployment/frontend",
+        "answer_d": "kubectl rollout status -s deployment/frontend",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "false",
+        "answer_b_correct": "true",
+        "answer_c_correct": "false",
+        "answer_d_correct": "false",
+        "answer_e_correct": "false",
+        "answer_f_correct": "false"
+      },
+      "correct_answer": "answer_a",
+      "explanation": null,
+      "tip": null,
+      "tags": [
+        {
+          "name": "Kubernetes"
+        }
+      ],
+      "category": "Linux",
+      "difficulty": "Mudah"
+    },
+    {
+      "id": 517,
+      "question": "Atribut mana yang digunakan untuk menamai suatu elemen secara unik?",
+      "description": null,
+      "answers": {
+        "answer_a": "kelas",
+        "answer_b": "d",
+        "answer_c": "titik",
+        "answer_d": "semua di atas",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "false",
+        "answer_b_correct": "true",
+        "answer_c_correct": "false",
+        "answer_d_correct": "false",
+        "answer_e_correct": "false",
+        "answer_f_correct": "false"
+      },
+      "correct_answer": "answer_a",
+      "explanation": null,
+      "tip": null,
+      "tags": [
+        {
+          "name": "HTML"
+        }
+      ],
+      "category": "Kode",
+      "difficulty": "Menengah"
+    },
+    {
+      "id": 567,
+      "question": "Metode mana yang mengirimkan input ke dalam skrip melalui URL?",
+      "description": null,
+      "answers": {
+        "answer_a": "Get",
+        "answer_b": "Tidak ada",
+        "answer_c": "Keduanya",
+        "answer_d": "Post",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "true",
+        "answer_b_correct": "false",
+        "answer_c_correct": "false",
+        "answer_d_correct": "false",
+        "answer_e_correct": "false",
+        "answer_f_correct": "false"
+      },
+      "correct_answer": "answer_a",
+      "explanation": null,
+      "tip": null,
+      "tags": [
+        {
+          "name": "PHP"
+        }
+      ],
+      "category": "Kode",
+      "difficulty": "Menengah"
+    },
+    {
+      "id": 819,
+      "question": "Dapatkah sebuah kontainer Docker restart sendiri?",
+      "description": null,
+      "answers": {
+        "answer_a": "Benar",
+        "answer_b": "Salah",
+        "answer_c": null,
+        "answer_d": null,
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "true",
+        "answer_b_correct": "false",
+        "answer_c_correct": "false",
+        "answer_d_correct": "false",
+        "answer_e_correct": "false",
+        "answer_f_correct": "false"
+      },
+      "correct_answer": null,
+      "explanation": null,
+      "tip": null,
+      "tags": [
+        {
+          "name": "Docker"
+        }
+      ],
+      "category": "Docker",
+      "difficulty": "Menengah"
+    },
+    {
+      "id": 276,
+      "question": "Apa yang dimaksud dengan bidang kustom di WordPress?",
+      "description": null,
+      "answers": {
+        "answer_a": "Bidang kustom juga dikenal sebagai meta permintaan. Meta permintaan adalah fitur di WordPress yang memungkinkan penulis pos menambahkan informasi tambahan saat menulis sebuah pos.",
+        "answer_b": "Bidang kustom juga dikenal sebagai meta pos. Meta pos adalah fitur di WordPress yang memungkinkan penulis pos menambahkan informasi tambahan saat menulis sebuah pos.",
+        "answer_c": "Bidang kustom juga dikenal sebagai get meta. Get meta adalah fitur di WordPress yang memungkinkan penulis pos menambahkan informasi tambahan saat menulis sebuah pos.",
+        "answer_d": null,
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "false",
+        "answer_b_correct": "true",
+        "answer_c_correct": "false",
+        "answer_d_correct": "false",
+        "answer_e_correct": "false",
+        "answer_f_correct": "false"
+      },
+      "correct_answer": "answer_a",
+      "explanation": null,
+      "tip": null,
+      "tags": [
+        {
+          "name": "WordPress"
+        }
+      ],
+      "category": "CMS",
+      "difficulty": "Menengah"
+    },
+    {
+      "id": 603,
+      "question": "Di bawah ini, yang mana yang bukan merupakan peran di WordPress?",
+      "description": null,
+      "answers": {
+        "answer_a": "Admin",
+        "answer_b": "Penulis",
+        "answer_c": "Redaktur",
+        "answer_d": "Ilustrator",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "false",
+        "answer_b_correct": "false",
+        "answer_c_correct": "false",
+        "answer_d_correct": "true",
+        "answer_e_correct": "false",
+        "answer_f_correct": "false"
+      },
+      "correct_answer": "answer_a",
+      "explanation": null,
+      "tip": null,
+      "tags": [
+        {
+          "name": "WordPress"
+        }
+      ],
+      "category": "CMS",
+      "difficulty": "Mudah"
+    }
+  ]
+    
